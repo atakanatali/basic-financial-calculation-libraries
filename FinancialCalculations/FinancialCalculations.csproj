@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>BasicFinancialCalculations</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>OpenAI Assistant</Authors>
+    <Company>OpenAI Assistant</Company>
+    <Description>Basic financial calculation utilities including currency conversion, cross currency rates, fee calculations, volume calculations, and other helper formulas.</Description>
+    <PackageTags>finance;currency;conversion;fees;volume;interest</PackageTags>
+    <RepositoryUrl>https://example.com/basic-financial-calculation-libraries</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
